@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 
 <img align='center' src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img align='center' src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img align='center' src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/>
 
+<img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lcm5500">
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=One-armed-boy&show_icons=true&theme=radical)](https://github.com/One-armed-boy/github-readme-stats)
 
-
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lcm5500">
 
