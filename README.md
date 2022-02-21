@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋, CMLee
 
 <!--
 **One-armed-boy/One-armed-boy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=lcm5500)
