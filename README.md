@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lcm5500">
 
-<imp align='right' src="https://github-readme-stats.vercel.app/api?username=One-armed-boy&show_icons=true&theme=radical"/>
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=One-armed-boy&show_icons=true&theme=radical">
 
 
 
