@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=lcm5500)
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lcm5500">
