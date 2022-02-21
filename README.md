@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 
 <img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lcm5500">
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=One-armed-boy&show_icons=true&theme=radical)](https://github.com/One-armed-boy/github-readme-stats)
+<imp align='right' src="https://github-readme-stats.vercel.app/api?username=One-armed-boy&show_icons=true&theme=radical"/>
+
 
 
