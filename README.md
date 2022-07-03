@@ -1,6 +1,6 @@
 <div align='center'>
 
-### Hi there 👋, CMLee
+# Hi there 👋, CMLee
 
   
 <!--
@@ -19,17 +19,17 @@ Here are some ideas to get you started:
 -->
 
   
-### Languages 
-#### (sort_values("proficiency", ascending = False))
-
-
+## Languages 
 
 <img align='center' src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" width="100"/><div></div>
 ##### Django | Numpy | Pandas | Sklearn | Keras
+###
 <img align='center' src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"  width="125"/><div></div>
 ##### Node | Express 
+###
 <img align='center' src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"  width="75"/><div></div>
-##### Flutter 
+##### Flutter
+###
 <img align='center' src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"  width="50"/><div></div>
  
 
