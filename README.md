@@ -34,7 +34,6 @@ Here are some ideas to get you started:
  
 
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lcm5500)](https://solved.ac/lcm5500)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lcm5500)](https://solved.ac/lcm5500) <div></div>
 ![CMLee's GitHub stats](https://github-readme-stats.vercel.app/api?username=One-armed-boy&show_icons=true&theme=radical)
 </div> 
