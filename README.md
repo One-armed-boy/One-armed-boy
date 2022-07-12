@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -->
 
   
-## Languages 
+## Stacks 
 
 <img align='center' src="https://img.shields.io/badge/Python-3776AB?style=round&logo=Python&logoColor=white" width="100"/><div></div>
 ##### Django | Numpy | Pandas | Sklearn | Keras
