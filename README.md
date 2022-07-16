@@ -32,7 +32,8 @@ Here are some ideas to get you started:
 ###
 <img align='center' src="https://img.shields.io/badge/Java-007396?style=round&logo=Java&logoColor=white"  width="50"/><div></div>
  
-
+## Etc
+#### - Engineer Big Data Analysis
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lcm5500)](https://solved.ac/lcm5500) <div></div>
 ![CMLee's GitHub stats](https://github-readme-stats.vercel.app/api?username=One-armed-boy&show_icons=true&theme=radical)
