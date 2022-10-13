@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ##### Django | Numpy | Pandas | Sklearn | Keras
 ###
 <img align='center' src="https://img.shields.io/badge/JavaScript-F7DF1E?style=round&logo=JavaScript&logoColor=black"  width="125"/><div></div>
-##### Node | Express 
+##### Node | Express | TypeScript | React 
 ###
 <img align='center' src="https://img.shields.io/badge/Dart-0175C2?style=round&logo=Dart&logoColor=white"  width="75"/><div></div>
 ##### Flutter
