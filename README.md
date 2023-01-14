@@ -40,7 +40,6 @@ Here are some ideas to get you started:
 ![CMLee's GitHub stats](https://github-readme-stats.vercel.app/api?username=One-armed-boy&show_icons=true&theme=radical)
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=One-armed-boy&show_icons=true&theme=tokyonight"><br><br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=One-armed-boy&layout=compact&theme=tokyonight">
 </div>
 </div> 
