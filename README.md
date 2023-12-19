@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ## Stacks 
 
 <img align='center' src="https://img.shields.io/badge/JavaScript-F7DF1E?style=round&logo=JavaScript&logoColor=black"  width="125"/><div></div>
-##### Node | Express | TypeScript | Nest | React
+##### Node | Typescript | NestJS | Express
 ###
 <img align='center' src="https://img.shields.io/badge/Python-3776AB?style=round&logo=Python&logoColor=white" width="100"/><div></div>
 ##### Django | Numpy | Pandas | Sklearn | Keras
